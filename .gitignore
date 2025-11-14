@@ -1,0 +1,62 @@
+# Visual Studio cache
+.vs/
+
+# Build outputs
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+out/
+
+# C/C++ temporary files
+*.obj
+*.o
+*.lo
+*.la
+*.al
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+*.exe
+*.out
+*.app
+*.i
+*.ii
+*.s
+*.su
+
+# Visual Studio files
+*.user
+*.vcxproj.user
+*.suo
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.ipch
+
+# Auto-generated files
+*.log
+*.tlog
+*.pdb
+*.idb
+
+# CMake build folders
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE/Editor files
+*.log
+*.vscode/
+*.idea/
+
+# Misc
+*.tmp
+*.bak
+*.swp
